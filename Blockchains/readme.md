@@ -1,1 +1,5 @@
-
+- [ ] Chainlink
+- [ ] Ripple
+- [ ] Solana
+- [ ] Polygon
+- [ ] Uniswap
