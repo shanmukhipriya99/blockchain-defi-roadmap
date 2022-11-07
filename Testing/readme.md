@@ -5,3 +5,4 @@
 - [ ] Truffle
 - [ ] Ethereum Tester
 - [ ] Embark
+- [ ] Waffle
